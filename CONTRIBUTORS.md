@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Apoorva Sunkad](https://github.com/ApoorvaSunkad)
 - Place: Dharwad, Karnataka, India
-- Bio: System Engineer, Coder
+- Bio: Aspiring Software Engineer, Coder
 - Github: [ApoorvaSunkad](https://github.com/ApoorvaSunkad)

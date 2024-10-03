@@ -10,10 +10,10 @@
 - Space,Black holes,Physics,Cosmology,Coding,Development.
 
 ### Development
-- Developed a simple calculator using HTML, CSS and Javascript with the help of CodewithHarry tutorial.
+- I have built a personal portfolio website using HTML,CSS,Javascript and React.js
 
 ### Projects
-- Insurance cost prediction - A Machine learning project developed by using Regression Alogrithms.
+- [Portfolio] https://apoorvasunkad-portflio.netlify.app/
 
 ### Profile Link
 - [Github] https://github.com/ApoorvaSunkad
